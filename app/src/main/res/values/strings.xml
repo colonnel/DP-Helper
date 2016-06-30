@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DP Helper</string>
+    <string name="folder_ldpi">drawable-ldpi</string>
+    <string name="folder_mdpi">drawable-mdpi</string>
+    <string name="folder_hdpi">drawable-hdpi</string>
+    <string name="folder_xhdpi">drawable-xhdpi</string>
+    <string name="folder_xxhdpi">drawable-xxhdpi</string>
+    <string name="folder_xxxhdpi">drawable-xxxhdpi</string>
+    <string name="message_isempty">Field can not be empty</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="input_inches">Input inches</string>
+    <string name="input_width">Input Width</string>
+    <string name="input_high">Input High</string>
+    <string name="button_clear">CLEAR</string>
+    <string name="dpi">" dpi"</string>
+</resources>
